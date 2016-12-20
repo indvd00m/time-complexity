@@ -3,6 +3,7 @@
 time-complexity lib.
 
 ## Using
+
 Add repository to your POM:
 
 ```xml
@@ -23,6 +24,7 @@ Add dependency to your maven project:
 ```
 
 ## CI
+
 Maven artifacts are built via Travis: 
 [![Build Status](https://travis-ci.org/indvd00m/time-complexity.svg?branch=master)](https://travis-ci.org/indvd00m/time-complexity)
 
@@ -33,6 +35,7 @@ https://github.com/indvd00m/time-complexity/releases
 ## Release notes
 
 ### Version 0.1.0-SNAPSHOT
+
 - Init project.
 
 ## Roadmap
@@ -45,6 +48,7 @@ This component is developed as a hobby with no public roadmap or any guarantees 
 The issues for this project are tracked on its github.com page. All bug reports and feature requests are appreciated. 
 
 ## Building and running tests
+
 ```bash
 git clone https://github.com/indvd00m/time-complexity/
 cd time-complexity
